@@ -1,3 +1,4 @@
+![baner](./baner/welcome.jpg)
 <h1 align="center">Hi 👋, I'm Mohammad Amin</h1>
 <h3 align="center">A passionate backend developer from Iran</h3>
 
