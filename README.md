@@ -1,6 +1,9 @@
 ![baner](./baner/welcome.jpg)
 <h1 align="center">Hi 👋, I'm Mohammad Amin</h1>
 <h3 align="center">A passionate backend developer from Iran</h3>
+<p align="right">
+  <img align="right" src="/baner/Tech Coding GIF by Persona.gif" alt="My image" style="float: right; width: 300px;">
+</p>
 
 - 🔭 I’m currently working on [learning JavaScript and improving my coding skills.](https://github.com/mohammadaminheidary/javascript-me)
 
@@ -11,7 +14,7 @@
 - 📫 How to reach me **mohammadaminheydary2006@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><img src="/baner/programmer.gif" alt="My image" style="float: right; width: 300px;">
+<p align="left">
 <a href="https://twitter.com/https://x.com/aamin__1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/aamin__1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammadamin-heydary-934998368/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammadamin-heydary-934998368/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/mohammadaminheidary_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mohammadaminheidary_/" height="30" width="40" /></a>
