@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **learning advanced JavaScript concepts.**
 
-- 📫 How to reach me **mohammadaminheydry**
+- 📫 How to reach me **mohammadaminheydary2006@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
